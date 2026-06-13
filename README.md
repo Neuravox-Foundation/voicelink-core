@@ -138,5 +138,5 @@ VoiceLink is maintained by Gideon Luper, an independent developer based in Ugand
 
 ## License
 
-Code: MIT (planned).
-Audio datasets produced by the pipeline are released under the Creative Commons licenses required by the target dataset (typically CC0 for Mozilla Common Voice submissions).
+Software code in this repository is licensed under the MIT License.
+Dataset licensing is determined by the destination dataset, publishing agreement, and applicable rights framework. For Mozilla Common Voice contributions, approved clips are published under the CC0 1.0 Universal license in accordance with Mozilla Common Voice requirements.
